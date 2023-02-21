@@ -1,0 +1,17 @@
+1. Classes
+
+2. Object
+
+3. Abstraction
+- Hide unnecessary code from user.
+
+4. Encaptulation
+- Some private method won't work outside the class which is called Encaptulation method.
+
+5. Inheritance
+- Access methods, functions from another class. Means it inherit from them.
+
+6. Polymorphism
+- This will behave many ways. A child class can overwrite a method that inherited from parent class.
+
+7. Getter and Setter Method
