@@ -22,7 +22,7 @@ class Instructor extends TeamMember {
     makeQuizQuestion(module) {
         console.log(`Make a quiz question for module ${module}.`);
     }
-}
+} 
 
 class Developer extends TeamMember {
     designation = 'Developer';

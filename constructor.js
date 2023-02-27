@@ -16,7 +16,7 @@ class Instructor {
     }
 }
 
-// Creating an object for instructor clas. This will call the Instructor class and use its methods.'
+// Creating an object for instructor class. This will call the Instructor class and use its methods.'
 const jhankar = new Instructor('Jhankar Mahbub', 'United States');
 console.log(jhankar);
 jhankar.startSupportSession('9.00 PM');
